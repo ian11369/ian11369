@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Sou desenvolvedor e Administrador Salesforce e desenvolvedor Js fullstack.
+Sou Desenvolvedor Salesforce, Administrador Salesforce e desenvolvedor Js fullstack.
 
 
 ## 🌐 Socials:
